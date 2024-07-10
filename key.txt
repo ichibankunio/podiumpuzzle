@@ -1,0 +1,13 @@
+key store path
+    user/ku201/GooglePlayKey/ku20298-keystore.jks
+password: C:/playkey20
+
+keyをcreate new...から作る
+
+keyについて
+Alias: podiumpuzzle-key1
+password: C:/pp20
+certificate 
+organization: Ichiban Kunio だけ入力
+
+export encrypted key...のチェックをはずす
